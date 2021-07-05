@@ -14,6 +14,5 @@ fun main(args: Array<String>) = with(BufferedReader(InputStreamReader(System.`in
             idx = it + 1
         }
     }
-
     print("$idx $max")
 }
