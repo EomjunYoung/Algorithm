@@ -3,6 +3,7 @@ package programmers;
 import java.util.*;
 
 public class _68644 {
+    //test
     static Set<Integer> list;
     //test4
     public static void main(String[] args) {
